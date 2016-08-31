@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/TokarevaT/homeWork5-Advanced/issues"
   },
-  "homepage": "https://github.com/TokarevaT/homeWork5-Advanced#readme"
+  "homepage": "https://github.com/TokarevaT/homeWork5-Advanced#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-eslint": "^3.0.1"
+  }
 }
